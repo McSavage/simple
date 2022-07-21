@@ -1,2 +1,2 @@
 # simple
-Udeny course
+Udemyurse
